@@ -2,14 +2,16 @@
 
 **Tema:** Um algoritmo, diferentes linguagens: listas, arrays e repetições
 
-**Aluno:** [Nome completo]  
+**Aluno:** Enzo Carvalho de Andrade 
 **RA:** [Registro acadêmico]  
 **Professor:** Alexandre de Oliveira — Montanha  
 **Data:** 01/11/2026
 
 ## Objetivo
 
-[Descrever com suas próprias palavras o objetivo da atividade.]
+O objetivo é compreender como arrays, listas e laços de repetição trabalham 
+juntos e reconhecer como um mesmo raciocínio pode ser representado em 
+diferentes linguagens
 
 ## Linguagens utilizadas
 
