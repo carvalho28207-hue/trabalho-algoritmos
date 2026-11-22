@@ -38,13 +38,7 @@ Exemplo em que a diferença importa: pedir uma senha ao usuário. Com `do-while`
 
 ## 2. Leitura e relação com o livro
 
-**Fonte:** *Entendendo Algoritmos: um guia ilustrado para programadores e outros curiosos*, de Aditya Bhargava, capítulo 2.
-
-- **Edição consultada:** PREENCHER PELO ALUNO
-- **Seções consultadas:** PREENCHER PELO ALUNO
-- **Páginas consultadas:** PREENCHER PELO ALUNO
-
-> Aviso: as respostas abaixo explicam os conceitos. Edição, seções e páginas devem ser preenchidas pelo aluno depois de consultar o livro; não foram inventadas.
+Não fiz
 
 ### Questão 1 — Como os elementos de um array são organizados e acessados?
 
