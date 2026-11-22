@@ -1,0 +1,66 @@
+﻿Evidência de execução - C# (22/11/2026 18:53)
+Comando: cd csharp ; dotnet run
+----------------------------------------
+0 - Atlético-MG
+1 - Cruzeiro
+2 - América-MG
+3 - Villa Nova
+Atlético-MG x Cruzeiro
+Atlético-MG x América-MG
+Atlético-MG x Villa Nova
+Cruzeiro x Atlético-MG
+Cruzeiro x América-MG
+Cruzeiro x Villa Nova
+América-MG x Atlético-MG
+América-MG x Cruzeiro
+América-MG x Villa Nova
+Villa Nova x Atlético-MG
+Villa Nova x Cruzeiro
+Villa Nova x América-MG
+Total de jogos: 12
+Atlético-MG x Cruzeiro
+Atlético-MG x América-MG
+Atlético-MG x Villa Nova
+Cruzeiro x América-MG
+Cruzeiro x Villa Nova
+América-MG x Villa Nova
+Total turno único: 6
+
+=== Com 5 times (Tombense) ===
+0 - Atlético-MG
+1 - Cruzeiro
+2 - América-MG
+3 - Villa Nova
+4 - Tombense
+Atlético-MG x Cruzeiro
+Atlético-MG x América-MG
+Atlético-MG x Villa Nova
+Atlético-MG x Tombense
+Cruzeiro x Atlético-MG
+Cruzeiro x América-MG
+Cruzeiro x Villa Nova
+Cruzeiro x Tombense
+América-MG x Atlético-MG
+América-MG x Cruzeiro
+América-MG x Villa Nova
+América-MG x Tombense
+Villa Nova x Atlético-MG
+Villa Nova x Cruzeiro
+Villa Nova x América-MG
+Villa Nova x Tombense
+Tombense x Atlético-MG
+Tombense x Cruzeiro
+Tombense x América-MG
+Tombense x Villa Nova
+Total de jogos: 20
+Atlético-MG x Cruzeiro
+Atlético-MG x América-MG
+Atlético-MG x Villa Nova
+Atlético-MG x Tombense
+Cruzeiro x América-MG
+Cruzeiro x Villa Nova
+Cruzeiro x Tombense
+América-MG x Villa Nova
+América-MG x Tombense
+Villa Nova x Tombense
+Total turno único: 10

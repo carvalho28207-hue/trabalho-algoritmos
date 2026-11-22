@@ -1,0 +1,51 @@
+﻿Evidência - execução com 3 times (Atlético-MG, Cruzeiro, América-MG) (22/11/2026 18:53)
+Gerada a partir de cópias temporárias dos códigos, com 'Villa Nova' e o trecho da Parte 4 removidos (o repositório mantém 4 e 5 times).
+Comandos: javac + java (Java) ; dotnet run (C#) ; cargo run --quiet (Rust)
+----------------------------------------
+### JAVA
+0 - Atlético-MG
+1 - Cruzeiro
+2 - América-MG
+Atlético-MG x Cruzeiro
+Atlético-MG x América-MG
+Cruzeiro x Atlético-MG
+Cruzeiro x América-MG
+América-MG x Atlético-MG
+América-MG x Cruzeiro
+Total de jogos: 6
+Atlético-MG x Cruzeiro
+Atlético-MG x América-MG
+Cruzeiro x América-MG
+Total turno único: 3
+
+### C#
+0 - Atlético-MG
+1 - Cruzeiro
+2 - América-MG
+Atlético-MG x Cruzeiro
+Atlético-MG x América-MG
+Cruzeiro x Atlético-MG
+Cruzeiro x América-MG
+América-MG x Atlético-MG
+América-MG x Cruzeiro
+Total de jogos: 6
+Atlético-MG x Cruzeiro
+Atlético-MG x América-MG
+Cruzeiro x América-MG
+Total turno único: 3
+
+### RUST
+0 - Atlético-MG
+1 - Cruzeiro
+2 - América-MG
+Atlético-MG x Cruzeiro
+Atlético-MG x América-MG
+Cruzeiro x Atlético-MG
+Cruzeiro x América-MG
+América-MG x Atlético-MG
+América-MG x Cruzeiro
+Total de jogos: 6
+Atlético-MG x Cruzeiro
+Atlético-MG x América-MG
+Cruzeiro x América-MG
+Total turno único: 3

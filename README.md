@@ -29,12 +29,33 @@ diferentes linguagens
 
 ## Como executar
 
+Todos os comandos partem da raiz do repositório. Cada programa mostra os times, as duas tabelas com 4 times e, depois de acrescentar o Tombense, as duas tabelas com 5 times.
+
 ### Java
-[Preencher após validar o programa.]
+
+```
+cd java
+javac -encoding UTF-8 Confrontos.java
+java -Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8 Confrontos
+```
+
+Os arquivos `.class` gerados não são versionados. No PowerShell, coloque os argumentos `-D...` entre aspas.
 
 ### C#
-[Preencher após validar o programa.]
+
+```
+cd csharp
+dotnet run
+```
 
 ### Rust
-[Preencher após validar o programa.]
+
+```
+cd rust
+cargo run
+```
+
+## Saídas e relatório
+
+As saídas reais das execuções estão em `evidencias/`. O relatório completo está em `relatorio.md`.
 
